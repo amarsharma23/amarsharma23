@@ -5,15 +5,14 @@ Hi, I am Amar sharma, a fresher pursuing BTech in computer science. To me life i
 
 A learner and technology enthusiastic man passionate about technology and the world seems like a roller coaster ride where we can build something new something innovative and creative for the world for various purposes so by that passion in my mind I want to become a developer in the software industry.
 
-As I am in my freshman year currently I am in my learning stage but hopes up I will definitely strive to build new projects and gaining skills with hardwork and determination.
-
 In my spare time I like to explore and find something special about different places and read it's history. I also love to make artististic design and paintings.
 
 You can connect with me on Twitter where I post my technical journey and anything new about my life.
 
 Twitter: officialamar9
 
-GitHub: src="https://github.com/amarsharma23">
+GitHub: <img align="right" alt="coding" width="160" height="95" src="https://github.com/amarsharma23">
+
 <img align="right" alt="coding" width="160" height="95" src="https://github.com/amarsharma23">
 
 - 🚀 I’m currently learning **Advanced Machine Learning , Feature Engineering**
