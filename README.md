@@ -20,7 +20,7 @@ Twitter: officialamar9
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amar_sharma_o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-sharma-363897253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
- [![Github](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/amarsharma23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+ [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=white)](https://github.com/amarsharma23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
 # 💻 Tech Stack:
