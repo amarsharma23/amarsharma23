@@ -11,8 +11,6 @@ You can connect with me on Twitter where I post my technical journey and anythin
 
 Twitter: officialamar9
 
-GitHub: <img align="right" alt="coding" width="160" height="95" src="https://github.com/amarsharma23">
-
 <img align="right" alt="coding" width="160" height="95" src="https://github.com/amarsharma23">
 
 - 🚀 I’m currently learning **Advanced Machine Learning , Feature Engineering**
